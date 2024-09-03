@@ -1,7 +1,12 @@
 import "./App.css";
+import Rating from "./components/Rating";
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <Rating />
+    </>
+  );
 }
 
 export default App;
